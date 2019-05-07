@@ -19,4 +19,11 @@ The Objective of this hackathon is to predict the Amount spent per room night ha
   <h3>Model Building:</h3>
   <p> Using CatBoostRegressor() for predicting the target values.
 
+  <h3>Evaluation/Performance metric: RMSE</h3>
+  <p> RMSE = 113.22
 
+
+<p>------------------------------------------------------------------------------------------------------------------------</p>
+<p>Thank You!	
+<p><!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/shreyaswankhede" aria-label="Follow @shreyaswankhede on GitHub">Follow @shreyaswankhede</a>
